@@ -259,8 +259,8 @@
         
         <p><b>Silpnosios mano pusės</b>:</p>
         <ul>
-            <li>silpnos JS žinios: lygis -> google.</li>
-            <li>realios patirties stoka sprendžiant realias problemas, dėl to mažas mano tempas, užtrunkant su paieškomis. Taip pat tikėtina, kad palieku kalnus saugumo spragų, nemoku gerųjų praktikų, trūksta išbaigtumo, architektūra ar nuoseklumas kode galėtu būti geresni. </li>
+            <li>silpnos JS žinios: lygis - google.</li>
+            <li>realisos patirties stoka sprendžiant realias problemas, dėl to mažas mano tempas, užtrunkant su paieškomis. Taip pat tikėtina, kad palieku kalnus saugumo spragų, nemoku gerųjų praktikų, trūksta išbaigtumo, architektūra ar nuoseklumas kode galėtu būti geresni. </li>
             <li>kolkas nemoku jokio frameworko: paraleliai su savo vystoma programine įranga, judu ir su Laravel kursu, bet tempą diktuoja pajamas generuojantis verslas, šeima ir tada 'knygos'.</li>
         </ul>
         
