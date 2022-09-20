@@ -1,0 +1,10 @@
+# Provide Specific Index Page 2022 01 09 
+DirectoryIndex login.php
+
+#Redirect HTTP to HTTPS
+#RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteCond %{HTTP:X-Forwarded-Proto} !https
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
