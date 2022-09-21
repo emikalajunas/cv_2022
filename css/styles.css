@@ -1,7 +1,8 @@
-
+/*------------------ Other styles start -----------------*/
 body{
 background-image: url(../images/background_image.jpg);
 }
+/*------------------ Other styles end ----------------*/
 
 /*------------------ Login page start -----------------*/
 .login_page_form{
@@ -92,4 +93,3 @@ background-repeat: no-repeat;
 background-position: center;
 }
 /*------------------ Loader  end  -----------------*/
-

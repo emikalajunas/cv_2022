@@ -27,7 +27,6 @@ class CoreClass {
         return $the_object;
     }
 
-
     private function has_the_attribute($the_attribute){
         $object_properties = get_object_vars($this);
         //checking if the key exists $object_properties array. Returns true/false

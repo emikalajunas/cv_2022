@@ -3,7 +3,7 @@
 //---------------- LOCAL adjustmens----------------------------------------------------
 //DIRECTORY_SEPARATOR chooses by win or OS / \ separator autom
 defined('DS') ? null : define ('DS', DIRECTORY_SEPARATOR); 
-
+//
 //<-Acer pc
 define ('SITE_ROOT', DS . 'wampn64' . DS . 'www' . DS . 'cv_2022');
 

@@ -73,7 +73,7 @@ if($user_found){
             <title><?php echo _PAGETITLE; ?></title>
   </head>
   <body> 
-          <div class="container">
+   <div class="container">
               <div class="row justify-content-md-center">
                     <div class="col-md-6">                                          
 <!--Login form start-->                                                
@@ -106,8 +106,8 @@ if($user_found){
 <!--   Text inputs block end-->                          
 <!--Login form end-->                                                                    
                         </div>
-                  </div>
-          </div>        
+                  </div> 
+  </div>        
     <footer>         
           <div class="login_page_footer">              
               <div class="text-center">

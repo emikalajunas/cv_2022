@@ -1,3 +1,4 @@
+<!--
  <h2>Bio</h2>
      <table class="table table-hover">
           <thead>
@@ -16,4 +17,4 @@
               <td>@fat</td>
             </tr>
           </tbody>
-    </table>
+    </table>-->

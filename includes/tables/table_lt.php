@@ -1,6 +1,5 @@
 <button class="accordion">Kontaktams</button>
     <div class="contacts">
-        <div class="table-responsive">
             <table class="table table-sm table-hover text-center">
               <thead>
                 <tr>
@@ -27,11 +26,9 @@
                 </tr>
               </tbody>
            </table>
-        </div>
     </div>    
 <button class="accordion">Išsilavimas ir darbinė partis</button>
     <div class="panel">
-           <div class="table-responsive">
             <table class="table table-sm table-hover text-center">
             <p><b>Studijos</b>: VPU istorijos bakalauras 2003 - 2007</p>
                 <p><b>Darbovietės</b></p>
@@ -55,12 +52,10 @@
                 </tr>
               </tbody>
             </table>
-        </div>
     </div>
     <button class="accordion">Studijos ir kursai</button>
     <div class="panel">
-      <div class="table-responsive">
-       <p>Be žemiau išvardintų kiti fragmentiniai soursai, kurie man reikalingi vienam ar kitam rezultatui pasiekti: youtube, stack overflow, freecodecamp.org, gugu, codewars</p>
+        <p>Be žemiau išvardintų kiti fragmentiniai soursai, kurie man reikalingi vienam ar kitam rezultatui pasiekti: youtube, stack overflow, freecodecamp.org, gugu, codewars</p>
             <table class="table table-sm table-hover text-center">
               <thead>
                 <tr>
@@ -103,11 +98,9 @@
                 </tr>
                 </tbody>            
           </table>
-        </div>
     </div>    
  <button class="accordion">Technologijos, kurias moku</button>
     <div class="panel">
-      <div class="table-responsive">
        <p>WEB vienaip ar kitaip su manimi nuo 2001 tako dialup ir phpbb forumų laikų, bet, pasisukus darbinei karjerai į poligrafiją, tik po VCS kursu, grįžau prie tai ko mėgstu ir po jų visą laiką savarankiškai mokiausi PHP, nes žaviuosi galimybe kurti sistemas, kurios sprendžia gamybos procesų problemas: CRM, sąskaitų išrašymo automatizacija, gamybos darbų optimizavimas, sandėlys, sąmatos. Tokią esu parašęs savo spaustuvei, kuria naudojame nuo 2019 (nuoroda prie projektų). <br>
        Visas problemas sprendžiu google. Ar dažnai kažko neišsprendžiu? Ne, tik ilgiau užtrunku, bet galiausiai surandu.</p>
         <table class="table table-sm table-hover text-center">
@@ -168,11 +161,9 @@
             </tr>
           </tbody>
       </table>
-    </div>
  </div>
- <button class="accordion">Mano projektai</button>
+<button class="accordion">Mano projektai</button>
     <div class="panel">
-      <div class="table-responsive">
        <p>Beveik WP svetainės buvo darytos nemokamai, tad dizainas, pateikimas ir informacija - šlubuoja. "Klientai" nebuvo suinteresuoti :D, tad viskas vyko principu "tau reikia, tu padaryk". Visos turi ograninį srautą, tačiau dėl to, kad visas hostinu savo resursų sąskaita, jokie jų vystymai neplanuojami iššskyrus įrankį turistams <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt</a>visitzagare.lt</p>
        <p><b>Emsis.lt prisijungimai testavimui:</b><br>user: admin<br>password: admin</p>
             <table class="table table-sm table-hover text-center">
@@ -251,14 +242,11 @@
                 </tr>
                 </tbody>
            </table>
-        </div>    
     </div>
     <button class="accordion">Tikslai ir siekiai</button>
     <div class="panel">
-       <p><b>Šis CV</b>: Užmeskite, prašau, akį i github: <a href="https://github.com/emikalajunas/cv_2022" target="_blank">https://github.com/emikalajunas/cv_2022</a>. Šis CV parašytas PHP OOP, tai reali aplikacija su klasėmis (DB, Sesijom, User), daugiakalbyste (Konstantos), password_verify :) ir t.t. parašyta be frameworkо, pasinaudojant udemy kursu metodu praktika, kad parodyti, esama žinių PHP lygį.</p>
-       
-        <p><b>Darbas/Praktika</b>. Noriu visiškai pereiti į WEB sferą. Nenoriu kurti WP temų ar programuoti jam modulius (nors galiu sukurti editinama WP tema nuo visiško nulio), noriu dirbti su didesnėmis sistemomis, skaičiavimais ir logika. Praktika nemaitins, tad, jeigu tai praktikos variantas, negaliu visų 160 savaitės valandų skirti jai, tačiau 2 darbo dienas - pilnai + kažkokius papildomus namų darbus savaitgaliams ar vakarams, 3 - 6 mėnesių laikotarpiui. Po jos, noriu visiškai atsisveikinti su spauda ir pereiti į programavimą. Būtų smagu, likti praktikos vietoje ar sutarties pagrindu su mano įmone gauti kažkokių projektų, nes įmonė dirba pelningai ir stabiliai, jos likviduoti neplanuoju, tačiau noriu pokyčių. Kardinalių.<br></p>
-                
+       <p><b>Šis CV</b>: Užmeskite, prašau, akį i github: <a href="https://github.com/emikalajunas/cv_2022" target="_blank">https://github.com/emikalajunas/cv_2022</a>. Šis CV parašytas PHP OOP, tai reali aplikacija su klasėmis (DB, Sesijom, User), daugiakalbyste (Konstantos), password_verify :) ir t.t. parašyta be frameworkо, pasinaudojant udemy kursu metodu praktika, kad parodyti, esama žinių PHP lygį.</p>       
+        <p><b>Darbas/Praktika</b>. Noriu visiškai pereiti į WEB sferą. Nenoriu kurti WP temų ar programuoti jam modulius (nors galiu sukurti editinama WP tema nuo visiško nulio), noriu dirbti su didesnėmis sistemomis, skaičiavimais ir logika. Praktika nemaitins, tad, jeigu tai praktikos variantas, negaliu visų 160 savaitės valandų skirti jai, tačiau 2 darbo dienas - pilnai + kažkokius papildomus namų darbus savaitgaliams ar vakarams, 3 - 6 mėnesių laikotarpiui. Po jos, noriu visiškai atsisveikinti su spauda ir pereiti į programavimą. Būtų smagu, likti praktikos vietoje ar sutarties pagrindu su mano įmone gauti kažkokių projektų, nes įmonė dirba pelningai ir stabiliai, jos likviduoti neplanuoju, tačiau noriu pokyčių. Kardinalių.<br></p>                
         <p><b>Stipriosios mano pusės</b>:</p>
         <ul>
             <li>vidutinis/stiprus beginner lygis su PHP.</li>
@@ -266,8 +254,7 @@
             <li>reali motyvacija atlikti praktika - man to tikrai reikia.</li>
             <li>nuolatinis mokymasis - udemy. Vieni skaito knygas, antri mezga, as mėgstu udemy.</li>
             <li>geri anglų kalbos skilsai, techninis mąstymas, ilgametė/visokeriopa patirtis su geležimi ir softu  nuo 386/486 (win 3.11/95/98/XP/7/8 - max, mandrake/kubuntu - min) dėl ko niekada nepasiduodu ir ieškau išeičių.</li>
-        </ul> 
-        
+        </ul>        
         <p><b>Silpnosios mano pusės</b>:</p>
         <ul>
             <li>silpnos JS žinios: lygis - google.</li>
