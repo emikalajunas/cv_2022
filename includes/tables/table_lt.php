@@ -43,7 +43,7 @@
                 <tr>
                   <td>2007 - 2009</td>
                   <td>MTL spaustuvė</td>
-                  <td>krovėjas ->sandėlininkas ->pardavimų skyriaus sąmatininkas</td>
+                  <td>sandelio darbuotojas->sandėlininkas->pardavimų skyriaus sąmatininkas</td>
                 </tr>
                 <tr>
                   <td>2009 - dabar</td>
@@ -74,7 +74,7 @@
                 </tr>
                  <tr>
                   <td>Udemy</td>
-                  <td>PHP ir MySQLpagrindai</td>
+                  <td>PHP ir MySQL pagrindai</td>
                   <td>10.5</td>
                   <td><a href="https://www.udemy.com/share/101ryE3@lOxL_rME82e6RyPYbsRvq9yrNQ5iyljKbMXtx6JhI4LyFPh_K4qDDuHO2jrUaxkR/">Nuoroda</a></td>
                 </tr>
@@ -101,8 +101,7 @@
     </div>    
  <button class="accordion">Technologijos, kurias moku</button>
     <div class="panel">
-       <p>WEB vienaip ar kitaip su manimi nuo 2001 tako dialup ir phpbb forumų laikų, bet, pasisukus darbinei karjerai į poligrafiją, tik po VCS kursu, grįžau prie tai ko mėgstu ir po jų visą laiką savarankiškai mokiausi PHP, nes žaviuosi galimybe kurti sistemas, kurios sprendžia gamybos procesų problemas: CRM, sąskaitų išrašymo automatizacija, gamybos darbų optimizavimas, sandėlys, sąmatos. Tokią esu parašęs savo spaustuvei, kuria naudojame nuo 2019 (nuoroda prie projektų). <br>
-       Visas problemas sprendžiu google. Ar dažnai kažko neišsprendžiu? Ne, tik ilgiau užtrunku, bet galiausiai surandu.</p>
+       <p>WEB vienaip ar kitaip su manimi nuo 2001 tako dialup ir phpbb forumų laikų, bet, pasisukus darbinei karjerai į poligrafiją, tik po VCS kursu, grįžau prie tai ko mėgstu ir po jų visą laiką savarankiškai mokiausi PHP, nes žaviuosi galimybe kurti sistemas, kurios sprendžia gamybos procesų problemas: CRM, sąskaitų išrašymo automatizacija, gamybos darbų optimizavimas, sandėlys, sąmatos. Tokią esu parašęs savo spaustuvei, kuria naudojame nuo 2019 (nuoroda <a href="https://emsis.lt/procedural" target="_blank">čia </a>).i kažko neišsprendžiu? Ne, tik ilgiau užtrunku, bet galiausiai surandu.</p>
         <table class="table table-sm table-hover text-center">
           <thead>
             <tr>
@@ -149,7 +148,7 @@
             </tr>
             <tr>
                  <td>WP divi theme builderis</td>
-                 <td>Labai gerai</td>
+                 <td>Gerai</td>
             </tr>
             <tr>
                  <td>Google ads</td>
@@ -157,14 +156,14 @@
             </tr>
             <tr>
                  <td>Facebook ads</td>
-                 <td>Labai gerai</td>
+                 <td>Gerai</td>
             </tr>
           </tbody>
       </table>
  </div>
 <button class="accordion">Mano projektai</button>
     <div class="panel">
-       <p>Beveik WP svetainės buvo darytos nemokamai, tad dizainas, pateikimas ir informacija - šlubuoja. "Klientai" nebuvo suinteresuoti :D, tad viskas vyko principu "tau reikia, tu padaryk". Visos turi ograninį srautą, tačiau dėl to, kad visas hostinu savo resursų sąskaita, jokie jų vystymai neplanuojami iššskyrus įrankį turistams <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt</a>visitzagare.lt</p>
+       <p>WP svetainės buvo darytos nemokamai, tad pateikimas ir informacija - šlubuoja. Viskas vyko principu "tau reikia, tu padaryk". Visos turi organinį srautą, tačiau dėl to, kad visas hostinu savo resursų sąskaita, jokie jų vystymai neplanuojami išskyrus šį įrankį <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt</a>visitzagare.lt</p>
        <p><b>Emsis.lt prisijungimai testavimui:</b><br>user: admin<br>password: admin</p>
             <table class="table table-sm table-hover text-center">
               <thead>
@@ -178,18 +177,18 @@
               </thead>
               <tbody>
                  <tr>
-                  <td>PHP (OOP)</td>
+                  <td>PHP(OOP)</td>
                   <td>2022</td>
                   <td><a href="https://emsis.lt/cv_2022" target="_blank">emsis.lt/cv_2022</a></td>
                   <td>Mano CV</td>
-                  <td>CV veikia sistemos - aplikacijos principu: turi klases (userio duomenims, sesijai, duombazes apdirbimui), klasių autoloadą, dvikalbystę, panaudoti skirtingi metodai includinti html (kviecia pagal $_SESSION('lang) ir t.t., SSL sertifikatą (iv.lt nemokamą). Metodai panaudoti is udemy kurso, kai kurie adaptuoti mano, specifinėm kitų projektų reikmėm.</td>
+                  <td>CV veikia sistemos - aplikacijos principu: turi klases (userio duomenims, sesijai, duombazes apdirbimui), klasių autoloadą, dvikalbystę, panaudoti skirtingi metodai includinti html (kviecia pagal $_SESSION('lang) ir t.t., SSL sertifikatą. Metodai panaudoti is udemy kurso, kai kurie adaptuoti mano.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2021</td>
                   <td><a href="https://emsis.lt" target="_blank">emsis.lt</a></td>
                   <td>Svetainė</td>
-                  <td>Silpnas dizainas, SEO bėdos</td>
+                  <td>Dizainas, SEO bėdos</td>
                 </tr>
                 <tr>
                   <td>PHP (procedural)</td>
@@ -203,35 +202,35 @@
                   <td>2021</td>
                   <td><a href="https://emsis.lt/OOP" target="_blank">emsis.lt/OOP</a></td>
                   <td>Paprastos, funkcionalios programinės įrangos paketas mikro gamybinėms įmonėms</td>
-                  <td>OOP PHP versija, neišbaigta, tęsiamas jos vystymas, veikia dauguma pagrindinių funkcijų: įrašų diegimas, sąmatų skaičiavimas, sandėlys, vartotojų valdymas, duombazės backupinimas, automatizuotas sąskaitų išarymas ir pan. Specifiniam, mikro įmonių segmentui, tai bus aktualus produktas.</td>
+                  <td>OOP PHP versija, neišbaigta, tęsiamas jos vystymas, veikia dauguma pagrindinių funkcijų: įrašų diegimas, sąmatų skaičiavimas, sandėlys, vartotojų valdymas, duombazės backupinimas, automatizuotas sąskaitų išrašymas ir pan. Specifiniam, mikro įmonių segmentui.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme+Woo (Stripe)</td>
                   <td>2019</td>
                   <td><a href="https://visitzagare.lt" target="_blank">visitzagare.lt</a></td>
-                  <td>Virtualus, daugiakalbis navigatorius, su shop suvenyrams</td>
-                  <td>SEO bedos, neišbaigtas shop, lėtas krovimas (IV.lt), nesukurta QR objektų sistema miestelyje.</td>
+                  <td>Virtualus, daugiakalbis navigatorius.</td>
+                  <td>SEO bedos, neišbaigtas shop, lėtas krovimas, nesukurta QR objektų sistema miestelyje.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
                   <td><a href="https://autoelektrikas.eu" target="_blank">autoelektrikas.eu</a></td>
                   <td>Svetainė</td>
-                  <td>Trūksta SSL sertifikato, reikia atnaujinimu.</td>
+                  <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
                   <td><a href="https://dgv.lt" target="_blank">dgv.lt</a></td>
                   <td>Svetainė</td>
-                  <td>Trūksta SSL sertifikato, reikia atnaujinimu.</td>
+                  <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
                   <td><a href="https://dokvesta.lt" target="_blank">dokvesta.lt</a></td>
                   <td>Svetainė</td>
-                  <td>Trūksta SSL sertifikato, reikia atnaujinimu.</td>
+                  <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
                 </tr>
                 <tr>
                   <td>WP</td>
@@ -245,21 +244,21 @@
     </div>
     <button class="accordion">Tikslai ir siekiai</button>
     <div class="panel">
-       <p><b>Šis CV</b>: Užmeskite, prašau, akį i github: <a href="https://github.com/emikalajunas/cv_2022" target="_blank">https://github.com/emikalajunas/cv_2022</a>. Šis CV parašytas PHP OOP, tai reali aplikacija su klasėmis (DB, Sesijom, User), daugiakalbyste (Konstantos), password_verify :) ir t.t. parašyta be frameworkо, pasinaudojant udemy kursu metodu praktika, kad parodyti, esama žinių PHP lygį.</p>       
-        <p><b>Darbas/Praktika</b>. Noriu visiškai pereiti į WEB sferą. Nenoriu kurti WP temų ar programuoti jam modulius (nors galiu sukurti editinama WP tema nuo visiško nulio), noriu dirbti su didesnėmis sistemomis, skaičiavimais ir logika. Praktika nemaitins, tad, jeigu tai praktikos variantas, negaliu visų 160 savaitės valandų skirti jai, tačiau 2 darbo dienas - pilnai + kažkokius papildomus namų darbus savaitgaliams ar vakarams, 3 - 6 mėnesių laikotarpiui. Po jos, noriu visiškai atsisveikinti su spauda ir pereiti į programavimą. Būtų smagu, likti praktikos vietoje ar sutarties pagrindu su mano įmone gauti kažkokių projektų, nes įmonė dirba pelningai ir stabiliai, jos likviduoti neplanuoju, tačiau noriu pokyčių. Kardinalių.<br></p>                
+       <p><b>Šis CV</b>: Užmeskite, prašau, akį i github: <a href="https://github.com/emikalajunas/cv_2022" target="_blank">https://github.com/emikalajunas/cv_2022</a>. Šis CV parašytas PHP OOP, tai reali aplikacija su klasėmis (DB, Sesijom, User), daugiakalbyste (konstantos), password_verify :) ir t.t. parašyta be frameworkо, pasinaudojant udemy kursu metodu praktika, kad parodyti, esama žinių PHP lygį.</p>       
+        <p><b>Darbas/Praktika</b>. Noriu visiškai pereiti į WEB sferą. Nenoriu kurti WP temų ar programuoti jam modulius (nors galiu sukurti editinama WP tema nuo visiško nulio), noriu dirbti su sistemomis, skaičiavimais ir logika. Praktika nemaitins, tad, jeigu tai praktikos variantas, negaliu visų 160 savaitės valandų skirti jai, tačiau 2-3 darbo dienas - pilnai + kažkokius papildomus namų darbus savaitgaliams ar vakarams, 3 - 6 mėnesių laikotarpiui. Po jos, noriu visiškai atsisveikinti su spauda ir pereiti į programavimą. Būtų smagu, likti praktikos vietoje ar sutarties pagrindu su mano įmone gauti kažkokių projektų, nes įmonė dirba pelningai ir stabiliai, jos likviduoti neplanuoju, tačiau noriu pokyčių. Kardinalių.<br></p>                
         <p><b>Stipriosios mano pusės</b>:</p>
         <ul>
             <li>vidutinis/stiprus beginner lygis su PHP.</li>
             <li>disciplina pabaigti ką pradėjus - 15 m vadybinės patirties užgrūdino. Žinios: jos nėra tobulos, tačiau pagrindinės. Visas kitas problema sprendžiu google.</li>
             <li>reali motyvacija atlikti praktika - man to tikrai reikia.</li>
             <li>nuolatinis mokymasis - udemy. Vieni skaito knygas, antri mezga, as mėgstu udemy.</li>
-            <li>geri anglų kalbos skilsai, techninis mąstymas, ilgametė/visokeriopa patirtis su geležimi ir softu  nuo 386/486 (win 3.11/95/98/XP/7/8 - max, mandrake/kubuntu - min) dėl ko niekada nepasiduodu ir ieškau išeičių.</li>
+            <li>geri anglų kalbos skilsai, techninis mąstymas, ilgametė/visokeriopa patirtis su geležimi ir softu  nuo 386/486, dėl ko niekada nepasiduodu ir ieškau išeičių.</li>
         </ul>        
         <p><b>Silpnosios mano pusės</b>:</p>
         <ul>
-            <li>silpnos JS žinios: lygis - google.</li>
-            <li>realisos patirties stoka sprendžiant realias problemas, dėl to mažas mano tempas, užtrunkant su paieškomis. Taip pat tikėtina, kad palieku kalnus saugumo spragų, nemoku gerųjų praktikų, trūksta išbaigtumo, architektūra ar nuoseklumas kode galėtu būti geresni. </li>
-            <li>kolkas nemoku jokio frameworko: paraleliai su savo vystoma programine įranga, nuo 2021 gruodžio judu ir su Laravel kursu, bet tempą jam mokytis diktuoja pajamas generuojantis verslas, šeima ir tada 'knygos'.</li>
+            <li>silpnos JS žinios: lygis - google ir VCS kursas 2019.</li>
+            <li>realios patirties stoka, sprendžiant realias problemas, dėl to mažas mano tempas, užtrunkant su paieškomis. Taip pat tikėtina, kad palieku kalnus saugumo spragų, nemoku gerųjų praktikų, trūksta išbaigtumo, architektūra ar nuoseklumas kode galėtu būti geresni. </li>
+            <li>kolkas nemoku jokio frameworko: dabar esu ipusėjęs ~50% 43 valandų Laravel kursą.</li>
         </ul>
     </div>
 
