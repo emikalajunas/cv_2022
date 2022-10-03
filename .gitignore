@@ -1,5 +1,5 @@
-# ignore ALL .log files
-*.log
+# ignore includes/config.php file
+includes/config.php
 
-# ignore config.php file
-config.php
+# ignore backups directory
+backups/
