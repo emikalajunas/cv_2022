@@ -70,31 +70,29 @@
                   <td>VCS</td>
                   <td>Bendras WEB</td>
                   <td>72</td>
-                  <td>Sertifikatas</td>
                 </tr>
                  <tr>
                   <td>Udemy</td>
                   <td>PHP ir MySQL pagrindai</td>
                   <td>10.5</td>
-                  <td><a href="https://www.udemy.com/share/101ryE3@lOxL_rME82e6RyPYbsRvq9yrNQ5iyljKbMXtx6JhI4LyFPh_K4qDDuHO2jrUaxkR/">Nuoroda</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP basic</td>
                   <td>38</td>
-                  <td><a href="https://www.udemy.com/share/101X5Q3@U2EoCqQb2zKNtXHikKdAmjSnxtFdj6mQmZ6_fA7tlZ3CqJCLq_coj5eH2fpPA8ZU/">Nuoroda</a></td>
+                  <td><a href="https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/" target="_blank">Nuoroda</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP OOP</td>
                   <td>18.5</td>
-                  <td><a href="https://www.udemy.com/share/102bfS3@SLaWZ0Q9_aARE2povjoun1bIuusfSVKufTjAdf-GVF_hWy0yKQt8OLPfqhO_k1lm/">Nuoroda</a></td>
+                  <td><a href="https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/" target="_blank">Nuoroda</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP Laravel</td>
                   <td>Dabar</td>
-                  <td><a href="https://www.udemy.com/share/102bfS3@SLaWZ0Q9_aARE2povjoun1bIuusfSVKufTjAdf-GVF_hWy0yKQt8OLPfqhO_k1lm/">Nuoroda</a></td>
+                  <td><a href="https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel//" target="_blank">Nuoroda</a></td>
                 </tr>
                 </tbody>            
           </table>
@@ -214,21 +212,14 @@
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
-                  <td><a href="https://autoelektrikas.eu" target="_blank">autoelektrikas.eu</a></td>
+                  <td><a href="http://autoelektrikas.eu" target="_blank">autoelektrikas.eu</a></td>
                   <td>Svetainė</td>
                   <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
-                  <td><a href="https://dgv.lt" target="_blank">dgv.lt</a></td>
-                  <td>Svetainė</td>
-                  <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
-                </tr>
-                <tr>
-                  <td>WP+Divi theme</td>
-                  <td>2019</td>
-                  <td><a href="https://dokvesta.lt" target="_blank">dokvesta.lt</a></td>
+                  <td><a href="http://dgv.lt" target="_blank">dgv.lt</a></td>
                   <td>Svetainė</td>
                   <td>Trūksta SSL sertifikato, reikia atnaujinimų.</td>
                 </tr>

@@ -62,7 +62,7 @@
                   <th>Source</th>
                   <th>Type</th>
                   <th>Length h</th>
-                  <th>Sertificate</th>
+                  <th>Link to</th>
                 </tr>
               </thead>
               <tbody>
@@ -70,31 +70,29 @@
                   <td>VCS</td>
                   <td>General WEB</td>
                   <td>72</td>
-                  <td>Sertificate</td>
                 </tr>
                  <tr>
                   <td>Udemy</td>
                   <td>PHP ir MySQL basics</td>
                   <td>10.5</td>
-                  <td><a href="https://www.udemy.com/share/101ryE3@lOxL_rME82e6RyPYbsRvq9yrNQ5iyljKbMXtx6JhI4LyFPh_K4qDDuHO2jrUaxkR/">Link</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP basics</td>
                   <td>38</td>
-                  <td><a href="https://www.udemy.com/share/101X5Q3@U2EoCqQb2zKNtXHikKdAmjSnxtFdj6mQmZ6_fA7tlZ3CqJCLq_coj5eH2fpPA8ZU/">Link</a></td>
+                  <td><a href="https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/" target="_blank">Course</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP OOP</td>
                   <td>18.5</td>
-                  <td><a href="https://www.udemy.com/share/102bfS3@SLaWZ0Q9_aARE2povjoun1bIuusfSVKufTjAdf-GVF_hWy0yKQt8OLPfqhO_k1lm/">Link</a></td>
+                  <td><a href="https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/" target="_blank">Course</a></td>
                 </tr>
                 <tr>
                   <td>Udemy</td>
                   <td>PHP Laravel</td>
                   <td>On progress</td>
-                  <td><a href="https://www.udemy.com/share/102bfS3@SLaWZ0Q9_aARE2povjoun1bIuusfSVKufTjAdf-GVF_hWy0yKQt8OLPfqhO_k1lm/">Link</a></td>
+                  <td><a href="https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/" target="_blank">Course</a></td>
                 </tr>
                 </tbody>            
           </table>
@@ -164,7 +162,7 @@
  </div>
 <button class="accordion">My projects</button>
     <div class="panel">
-       <p>WP sites were made for free, so the presentation and information is lame. Everything happened on the philosophy of "you need it - you do it". All them have organic traffic but due to the fact that I host them all at my own expense, no development is planned for them except for this tool<a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt</a>visitzagare.lt</p>
+       <p>WP sites were made for free, so the presentation and information is lame. Everything happened on the philosophy of "you need it - you do it". All them have organic traffic but due to the fact that I host them all at my own expense, no development is planned for them except for this tool <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt </a></p>
        <p><b>Emsis.lt login is:</b><br>user: admin<br>password: admin</p>
             <table class="table table-sm table-hover text-center">
               <thead>
@@ -215,21 +213,14 @@
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
-                  <td><a href="https://autoelektrikas.eu" target="_blank">autoelektrikas.eu</a></td>
+                  <td><a href="http://autoelektrikas.eu" target="_blank">autoelektrikas.eu</a></td>
                   <td>WEB</td>
                   <td>SEO, SSL missing etc.</td>
                 </tr>
                 <tr>
                   <td>WP+Divi theme</td>
                   <td>2019</td>
-                  <td><a href="https://dgv.lt" target="_blank">dgv.lt</a></td>
-                  <td>WEB</td>
-                  <td>SEO, SSL missing etc.</td>
-                </tr>
-                <tr>
-                  <td>WP+Divi theme</td>
-                  <td>2019</td>
-                  <td><a href="https://dokvesta.lt" target="_blank">dokvesta.lt</a></td>
+                  <td><a href="http://dgv.lt" target="_blank">dgv.lt</a></td>
                   <td>WEB</td>
                   <td>SEO, SSL missing etc.</td>
                 </tr>

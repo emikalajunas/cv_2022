@@ -1,5 +1,4 @@
 <?php 
-
 //---------------- LOCAL adjustmens----------------------------------------------------
 //DIRECTORY_SEPARATOR chooses by win or OS / \ separator autom
 defined('DS') ? null : define ('DS', DIRECTORY_SEPARATOR); 
