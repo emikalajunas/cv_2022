@@ -12,4 +12,6 @@ define('DB_NAME','cv_2022_db');
 //define('DB_PASSWORD','fwfewf55665hwd!@2ddf');
 //define('DB_NAME','addparklt_cvdb');
 
+//do we have ignorance? :)
+
 ?>
