@@ -1,5 +1,5 @@
 # ignore includes/config.php file
-# includes/config.php
+includes/config.php
 
 # ignore backups directory
 backups/
