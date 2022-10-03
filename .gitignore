@@ -3,5 +3,3 @@ includes/config.php
 
 # ignore backups directory
 backups/
-
-*.log
