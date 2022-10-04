@@ -162,7 +162,7 @@
 <button class="accordion">Mano projektai</button>
     <div class="panel">
        <p>WP svetainės buvo darytos nemokamai, tad pateikimas ir informacija - šlubuoja. Viskas vyko principu "tau reikia, tu padaryk". Visos turi organinį srautą, tačiau dėl to, kad visas hostinu savo resursų sąskaita, jokie jų vystymai neplanuojami išskyrus šį įrankį <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt</a>visitzagare.lt</p>
-       <p><b>Emsis.lt prisijungimai testavimui:</b><br>user: admin<br>password: admin</p>
+       <p><b>Emsis.lt prisijungimai testavimui:</b><br>user: admin<br>email: admin@admin.lt<br>password: admin</p>
             <table class="table table-sm table-hover text-center">
               <thead>
                 <tr>
@@ -191,7 +191,7 @@
                 <tr>
                   <td>PHP (procedural)</td>
                   <td>2020</td>
-                  <td><a href="https://emsis.lt/procedural" target="_blank">emsis.lt/procedural</a></td>
+                  <td><a href="https://emsis.lt/procedural" target="_blank">emsis.lt/procedural</a><br><a href="https://github.com/emikalajunas/emsis_procedural" target="_blank">github nuoroda</a></td>
                   <td>Paprastos, funkcionalios programinės įrangos paketas mikro gamybinėms įmonėms</td>
                   <td>Procedūrinė PHP versija, vystoma tolesnė OOP versija, veikia dauguma pagrindinių funkcijų: įrašų diegimas, sąmatų skaičiavimas, sandėlys, vartotojų valdymas, duombazės backupinimas.</td>
                 </tr>

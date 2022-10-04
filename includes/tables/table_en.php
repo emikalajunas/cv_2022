@@ -163,7 +163,7 @@
 <button class="accordion">My projects</button>
     <div class="panel">
        <p>WP sites were made for free, so the presentation and information is lame. Everything happened on the philosophy of "you need it - you do it". All them have organic traffic but due to the fact that I host them all at my own expense, no development is planned for them except for this tool <a href="https://visitzagare.lt" target="_blank">https://visitzagare.lt </a></p>
-       <p><b>Emsis.lt login is:</b><br>user: admin<br>password: admin</p>
+       <p><b>Emsis.lt login is:</b><br>user: admin<br>email: admin@admin.lt<br>password: admin</p>
             <table class="table table-sm table-hover text-center">
               <thead>
                 <tr>
@@ -192,7 +192,7 @@
                 <tr>
                   <td>PHP (procedural)</td>
                   <td>2020</td>
-                  <td><a href="https://emsis.lt/procedural" target="_blank">emsis.lt/procedural</a></td>
+                  <td><a href="https://emsis.lt/procedural" target="_blank">emsis.lt/procedural</a><br><a href="https://github.com/emikalajunas/emsis_procedural" target="_blank">github link</a></td>
                   <td>A simple, functional software package for micro-manufacturing companies</td>
                   <td>The procedural version of PHP: works main functions: add records, calculation of estimates, warehouse, user management, database backups.</td>
                 </tr>
