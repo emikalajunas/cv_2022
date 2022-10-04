@@ -177,7 +177,7 @@
                  <tr>
                   <td>PHP(OOP)</td>
                   <td>2022</td>
-                  <td><a href="https://emsis.lt/cv_2022" target="_blank">emsis.lt/cv_2022</a></td>
+                  <td><a href="https://emsis.lt/cv_2022" target="_blank">emsis.lt/cv_2022</a><br><a href="https://github.com/emikalajunas/cv_2022" target="_blank">github nuoroda</a></td>
                   <td>Mano CV</td>
                   <td>CV veikia sistemos - aplikacijos principu: turi klases (userio duomenims, sesijai, duombazes apdirbimui), klasių autoloadą, dvikalbystę, panaudoti skirtingi metodai includinti html (kviecia pagal $_SESSION('lang) ir t.t., SSL sertifikatą. Metodai panaudoti is udemy kurso, kai kurie adaptuoti mano.</td>
                 </tr>

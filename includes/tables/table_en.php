@@ -178,7 +178,7 @@
                  <tr>
                   <td>PHP(OOP)</td>
                   <td>2022</td>
-                  <td><a href="https://emsis.lt/cv_2022" target="_blank">emsis.lt/cv_2022</a></td>
+                  <td><a href="https://emsis.lt/cv_2022" target="_blank">emsis.lt/cv_2022</a><br><a href="https://github.com/emikalajunas/cv_2022" target="_blank">github link</a></td>
                   <td>This CV</td>                  
                   <td>CV works like application: it has Classes (for user data, session, database processing), autoload of classes, bilingualism, different methods are used including html (calls according to $_SESSION('lang) etc., SSL certificate. Methods used from udemy course.</td>
                 </tr>
