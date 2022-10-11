@@ -14,7 +14,7 @@
                 </tr>
                 <tr>
                   <td>Email</td>
-                  <td><a href="mailto: edvinas@adpark.lt">edvinas@adpark.lt</a></td>
+                  <td><a href="mailto: edvinas.mikalajunas@gmail.com">edvinas.mikalajunas@gmail.com</a></td>
                 </tr>
                 <tr>
                   <td>City</td>
@@ -22,7 +22,7 @@
                 </tr>
                 <tr>
                   <td>github</td>
-                  <td><a href="https://github.com/emikalajunas">https://github.com/emikalajunas</a></td>
+                  <td><a href="https://github.com/emikalajunas" target="_blank">https://github.com/emikalajunas</a></td>
                 </tr>
               </tbody>
            </table>
@@ -43,7 +43,7 @@
                 <tr>
                   <td>2007 - 2009</td>
                   <td>MTL printhouse</td>
-                  <td>warehouse worker->storekeeper->projects estimates manager</td>
+                  <td>warehouse worker->stockkeeper->projects estimates manager</td>
                 </tr>
                 <tr>
                   <td>2009 - now</td>
@@ -62,7 +62,7 @@
                   <th>Source</th>
                   <th>Type</th>
                   <th>Length h</th>
-                  <th>Link to</th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
@@ -199,7 +199,7 @@
                 <tr>
                   <td>PHP (OOP)</td>
                   <td>2021</td>
-                  <td><a href="https://emsis.lt/OOP" target="_blank">emsis.lt/OOP</a></td>
+                  <td><a href="https://emsis.lt/OOP" target="_blank">emsis.lt/OOP</a><br><a href="https://github.com/emikalajunas/emsis_oop" target="_blank">github link</a></td>
                   <td>A simple, functional software package for micro-manufacturing companies</td>
                   <td>OOP PHP version, incomplete, most of the main functions works: records adding, estimate calculation, warehouse, user management, database backups, automated invoicing, etc.</td>
                 </tr>

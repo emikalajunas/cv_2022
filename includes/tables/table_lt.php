@@ -14,7 +14,7 @@
                 </tr>
                 <tr>
                   <td>Epaštas</td>
-                  <td><a href="mailto: edvinas@adpark.lt">edvinas@adpark.lt</a></td>
+                  <td><a href="mailto: edvinas.mikalajunas@gmail.com">edvinas.mikalajunas@gmail.com</a></td>
                 </tr>
                 <tr>
                   <td>Miestas</td>
@@ -22,7 +22,7 @@
                 </tr>
                 <tr>
                   <td>github</td>
-                  <td><a href="https://github.com/emikalajunas">https://github.com/emikalajunas</a></td>
+                  <td><a href="https://github.com/emikalajunas" target="_blank">https://github.com/emikalajunas</a></td>
                 </tr>
               </tbody>
            </table>
@@ -62,7 +62,7 @@
                   <th>Šaltinis</th>
                   <th>Tipas</th>
                   <th>Trukmė h</th>
-                  <th>Sertifikatas</th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
@@ -92,14 +92,14 @@
                   <td>Udemy</td>
                   <td>PHP Laravel</td>
                   <td>Dabar</td>
-                  <td><a href="https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel//" target="_blank">Nuoroda</a></td>
+                  <td><a href="https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/" target="_blank">Nuoroda</a></td>
                 </tr>
                 </tbody>            
           </table>
     </div>    
  <button class="accordion">Technologijos, kurias moku</button>
     <div class="panel">
-       <p>WEB vienaip ar kitaip su manimi nuo 2001 tako dialup ir phpbb forumų laikų, bet, pasisukus darbinei karjerai į poligrafiją, tik po VCS kursu, grįžau prie tai ko mėgstu ir po jų visą laiką savarankiškai mokiausi PHP, nes žaviuosi galimybe kurti sistemas, kurios sprendžia gamybos procesų problemas: CRM, sąskaitų išrašymo automatizacija, gamybos darbų optimizavimas, sandėlys, sąmatos. Tokią esu parašęs savo spaustuvei, kuria naudojame nuo 2019 (nuoroda <a href="https://emsis.lt/procedural" target="_blank">čia </a>).i kažko neišsprendžiu? Ne, tik ilgiau užtrunku, bet galiausiai surandu.</p>
+       <p>WEB vienaip ar kitaip su manimi nuo 2001 tako dialup ir phpbb forumų laikų, bet, pasisukus darbinei karjerai į poligrafiją, tik po VCS kursu, grįžau prie tai ko mėgstu ir po jų visą laiką savarankiškai mokiausi PHP, nes žaviuosi galimybe kurti sistemas, kurios sprendžia gamybos procesų problemas: CRM, sąskaitų išrašymo automatizacija, gamybos darbų optimizavimas, sandėlys, sąmatos. Tokią esu parašęs savo spaustuvei, kuria naudojame nuo 2019 (nuoroda <a href="https://emsis.lt/procedural" target="_blank">čia </a>). Ar kažko neišsprendžiu? Ne, tik ilgiau užtrunku, bet galiausiai surandu.</p>
         <table class="table table-sm table-hover text-center">
           <thead>
             <tr>
@@ -198,7 +198,7 @@
                 <tr>
                   <td>PHP (OOP)</td>
                   <td>2021</td>
-                  <td><a href="https://emsis.lt/OOP" target="_blank">emsis.lt/OOP</a></td>
+                  <td><a href="https://emsis.lt/OOP" target="_blank">emsis.lt/OOP</a><br><a href="https://github.com/emikalajunas/emsis_oop" target="_blank">github nuoroda</a></td>
                   <td>Paprastos, funkcionalios programinės įrangos paketas mikro gamybinėms įmonėms</td>
                   <td>OOP PHP versija, neišbaigta, tęsiamas jos vystymas, veikia dauguma pagrindinių funkcijų: įrašų diegimas, sąmatų skaičiavimas, sandėlys, vartotojų valdymas, duombazės backupinimas, automatizuotas sąskaitų išrašymas ir pan. Specifiniam, mikro įmonių segmentui.</td>
                 </tr>

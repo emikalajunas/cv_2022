@@ -4,3 +4,5 @@ backups/
 # ignore config_remote.php with sentitive data
 includes/config_remote.php
 
+# ignore config.php with sentitive data
+includes/config.php
